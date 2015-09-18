@@ -1,6 +1,6 @@
 name: RegionTeleport
 main: com.github.pocketkid2.regionteleport.RegionTeleportPlugin
-version: 0.1.0
+version: 0.1.1
 author: Pocketkid2
 description: Teleport players somewhere when they enter a WG region!
 depend: [WorldGuard]
